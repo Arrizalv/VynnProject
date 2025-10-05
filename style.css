@@ -1,0 +1,39 @@
+.head {
+    font-size: 20px;
+    padding: 60px;
+    background-color: lightskyblue;
+    text-align: center;
+    color: white;
+}
+body nav>ul {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.navbar {
+    background-color: lightgrey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+.navbar a {
+    text-decoration: none;
+    color: black;
+    padding: 14px 20px;
+    display: inline-block;
+}
+#Home {
+    background-color: red;
+    padding: 10px;
+    overflow: auto;;
+}
+.img1 {
+    float: left;;
+    padding: 10px;
+}
+.SubHead1 {
+    position: relative;
+    bottom: 10px;
+}
