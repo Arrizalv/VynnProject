@@ -1,9 +1,11 @@
+import ProfilePic from "./assets/WhatsApp Image 2025-10-13 at 23.02.55.jpeg"
 
 function Master() {
     return(
            <>
            <article id="Home">
             <div class="SubHead1">
+                <img src={ProfilePic} alt="Personal Picture" class="pers-img" />
                 <h2>
                     Hi, I'm Arrizal Alvin a.k.a Front-end Developer
                 </h2>
@@ -32,22 +34,34 @@ function Master() {
             </ul>
             <section>
                 <ul class="info2">
-                <li>12+ Years of Experience</li>
-                <li>97+ Happy Customers</li>
+                <li>1+ Years of Experience</li>
+                <li>23+ Happy Customers</li>
                 </ul>
                 <ul class="info2">
-                <li>23+ Completed Projects</li>
-                <li>31+ Awards Won</li>
+                <li>7+ Completed Projects</li>
+                <li>3+ Awards Won</li>
                 </ul>
-                
             </section>
             <div class="CV">
             <button>Download CV</button>
             </div>
         </article>
+        <article id="Edu-Back">
+            <h1>Educational Background</h1>
+            <h2>2017-2023</h2>
+            <h3>Pondok Modern Darussalam Gontor</h3>
+            <p>Menjadi seorang Sekretaris Bagian Fotografi dan Mendapatkan Nilai Akhir 8,6 dengan predikat Mumtaaz</p>
+            <h2>2023-2024</h2>
+            <h3>Pondok Modern Darussalam Gontor Kampus 10 Jambi</h3>
+            <p>Menjadi Seorang guru pengabdian yang aktif di bidang Kesekretariatan dan Penerimaan Tamu</p>
+            <h2>2024-Now</h2>
+            <h3>Universitas Nahdlatul Ulama Yogyakarta</h3>
+            <p>Menjadi seorang mahasiswa Jurusan Teknik Informatika dan telah meraih IPK 3,83 di Semester 1 dan 2 </p>
+        </article>
+        <article id="MySkill">
             <h1>My Skills</h1>
-        <article class='Skill'>
-            <div id='ProgressBar'>
+            <div id='Skill'>
+            <div class='ProgressBar'>
             <h5>30% HTML</h5>
             <progress id='data' value='30' max='100'></progress>
             <h5>10% CSS</h5>
@@ -55,7 +69,7 @@ function Master() {
             <h5>5% Javascript</h5>
             <progress id='data' value='5' max='100'></progress>
             </div>
-            <div id='ProgressBar'>
+            <div class='ProgressBar'>
             <h5>40% Python</h5>
             <progress id='data' value='40' max='100'></progress>
             <h5>40% Photoshop</h5>
@@ -63,7 +77,9 @@ function Master() {
             <h5>35% Canva</h5>
             <progress id='data' value='35' max='100'></progress>
             </div>
+            </div>
         </article>
+        
         </>
     );
         }
