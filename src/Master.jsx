@@ -8,15 +8,13 @@ function Master() {
                     Hi, I'm Arrizal Alvin a.k.a Front-end Developer
                 </h2>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                    Deleniti ut adipisci aliquid soluta provident cum incidunt
-                    cupiditate amet quibusdam suscipit!
+                    An active student at a relatively new campus in the Special Region of Yogyakarta, with interests in graphic design, photography, and 3D modeling.
                 </p>
             </div>
             <a>More About Me</a>   
         </article>
         <article id="AboutMe">
-            <h2>About Me</h2>
+            <h1>About Me</h1>
             <h3>Personal Info</h3>
             <ul class="info">
                 <li>First Name: Arrizal</li>
@@ -33,15 +31,22 @@ function Master() {
                 <li>Language: Indonesian, English</li>
             </ul>
             <section>
-                <h4>12+ Years of Experience</h4>
-                <h4>97+ Happy Customers</h4>
-                <h4>23+ Completed Projects</h4>
-                <h4>31+ Awards Won</h4>
+                <ul class="info2">
+                <li>12+ Years of Experience</li>
+                <li>97+ Happy Customers</li>
+                </ul>
+                <ul class="info2">
+                <li>23+ Completed Projects</li>
+                <li>31+ Awards Won</li>
+                </ul>
+                
             </section>
-            <a>Download CV</a>
+            <div class="CV">
+            <button>Download CV</button>
+            </div>
         </article>
             <h1>My Skills</h1>
-        <article id="Skill">
+        <article class='Skill'>
             <div id='ProgressBar'>
             <h5>30% HTML</h5>
             <progress id='data' value='30' max='100'></progress>

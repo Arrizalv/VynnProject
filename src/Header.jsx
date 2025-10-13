@@ -4,7 +4,7 @@ function Header(){
         <header>
                      <div class="head">
                     <h1>Personal Blog</h1>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur, impedit dicta.</p>
+                    <p>Welcome to our Blog, We hope you can learn anything here. :D</p>
                 </div>
             <nav>
                 <ul class="navbar">
