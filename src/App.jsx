@@ -7,6 +7,9 @@ function App() {
     <>
     <Header/>
     <Card/>
+    <Card/>
+    <Card/>
+    <Card/>
     <Footer/>
     </>
   );
