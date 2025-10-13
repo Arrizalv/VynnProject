@@ -8,10 +8,7 @@ function App() {
     <>
     <Header/>
     <Master/>
-    <Card/>
-    <Card/>
-    <Card/>
-    <Card/>
+    {/* <Card/> */}
     <Footer/>
     </>
   );

@@ -42,21 +42,33 @@ function Master() {
                 <li>3+ Awards Won</li>
                 </ul>
             </section>
-            <div class="CV">
-            <button>Download CV</button>
-            </div>
         </article>
         <article id="Edu-Back">
-            <h1>Educational Background</h1>
-            <h2>2017-2023</h2>
-            <h3>Pondok Modern Darussalam Gontor</h3>
-            <p>Menjadi seorang Sekretaris Bagian Fotografi dan Mendapatkan Nilai Akhir 8,6 dengan predikat Mumtaaz</p>
-            <h2>2023-2024</h2>
-            <h3>Pondok Modern Darussalam Gontor Kampus 10 Jambi</h3>
-            <p>Menjadi Seorang guru pengabdian yang aktif di bidang Kesekretariatan dan Penerimaan Tamu</p>
-            <h2>2024-Now</h2>
-            <h3>Universitas Nahdlatul Ulama Yogyakarta</h3>
-            <p>Menjadi seorang mahasiswa Jurusan Teknik Informatika dan telah meraih IPK 3,83 di Semester 1 dan 2 </p>
+            <div>
+                <h1>Educational Background</h1>
+                <h2>2017-2023</h2>
+                <h3>Pondok Modern Darussalam Gontor</h3>
+                <p>Menjadi seorang Sekretaris Bagian Fotografi dan Mendapatkan Nilai Akhir 8,6 dengan predikat Mumtaaz</p>
+                <h2>2023-2024</h2>
+                <h3>Pondok Modern Darussalam Gontor Kampus 10 Jambi</h3>
+                <p>Menjadi Seorang guru pengabdian yang aktif di bidang Kesekretariatan dan Penerimaan Tamu</p>
+                <h2>2024-Now</h2>
+                <h3>Universitas Nahdlatul Ulama Yogyakarta</h3>
+                <p>Menjadi seorang mahasiswa Jurusan Teknik Informatika dan telah meraih IPK 3,83 di Semester 1 dan 2 </p>
+            </div>
+            <div>   
+                <h1>Organizational Experience</h1>
+                <h2>Bagian Sekretaris dalam panitia Acara Seminar Fotografi 2024</h2>
+                <h3>Pondok Modern Darussalam Gontor Ponorogo</h3>
+                <p>Menyiapkan surat peminjaman, perizinan, dan undangan dalam tiap2 acara, Membuat branding desain untuk Acara Seminar Fotografi
+                dari Banner, Notebook, Sertifikat, dsb. </p>
+                <h2>Pembimbing Asisten Bagian Penerimaan Tamu</h2>
+                <h3>Pondok Modern Darussalam Gontor Kampus 10 Jambi</h3>
+                <p>Membina Asisten Bagian Penerimaan Tamu, Membantu madamat dalam mempersiapkan konsumsi untuk tamu-tamu penting yang ada di pondok.</p>
+                <h2>Bagian Pengembangan Sumber Daya Manusia pada HIMATIKA Unu Jogja</h2>
+                <h3>Universitas Nahdlatul Ulama Yogyakarta</h3>
+                <p>Mengembangkan program pembinaan yang terpadu dan berkelanjutan dan mempersiapkan kaderisasi untuk penerus Himpunan Mahasiswa Teknik Informatika</p>
+            </div>
         </article>
         <article id="MySkill">
             <h1>My Skills</h1>

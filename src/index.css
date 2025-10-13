@@ -4,7 +4,7 @@
 .head {
     font-size: 20px;
     padding: 60px;
-    background-color: hwb(204 92% 0%);
+    background-color: hwb(0 81% 0%);
     text-align: center;
     /* color: white; */
 }
@@ -55,13 +55,6 @@
     width: 50%;
     line-height: 1.6;
     box-sizing: border-box;
-}
-.CV{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 1px;
-    border: 1px solid rgba(0, 128, 0, 0);
 }
 #Edu-Back{
     background-color: hsl(240, 100%, 97%);
